@@ -1,10 +1,13 @@
 _repo: Gillingwater-s-History-of-Lowestoft-a-reprint-with-a-chapter-of-more-recent-events_51654
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Murton, A. E.
     gutenberg_agent_id: '46510'
     url: http://www.gutenberg.org/2009/agents/46510
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gillingwater, Edmund
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46509'
     url: http://www.gutenberg.org/2009/agents/46509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51654#Gillingwater-s-History-of-Lowestoft-a-reprint-with-a-chapter-of-more-recent-events
 gutenberg_issued: '2016-04-04'
 gutenberg_type: Text
 identifiers:
