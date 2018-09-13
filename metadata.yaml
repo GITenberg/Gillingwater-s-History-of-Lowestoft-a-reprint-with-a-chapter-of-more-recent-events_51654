@@ -1,0 +1,32 @@
+_repo: Gillingwater-s-History-of-Lowestoft-a-reprint-with-a-chapter-of-more-recent-events_51654
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Murton, A. E.
+    gutenberg_agent_id: '46510'
+    url: http://www.gutenberg.org/2009/agents/46510
+creator:
+  author:
+    agent_name: Gillingwater, Edmund
+    birthdate: 1735
+    deathdate: 1813
+    gutenberg_agent_id: '46509'
+    url: http://www.gutenberg.org/2009/agents/46509
+description: ''
+gutenberg_issued: '2016-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lothingland (England)'
+- !lcc 'DA'
+- !lcsh 'Lowestoft (England)'
+- GITenberg
+title: 'Gillingwater''s History of Lowestoft
+
+  a reprint: with a chapter of more recent events'
+url: http://www.gutenberg.org/ebooks/51654
